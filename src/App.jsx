@@ -66,7 +66,7 @@ function App() {
         <div className="h-dvh w-dvw text-[#153448]">
         <div className="w-[350px] md:w-[650px] h-[600px] mx-auto">
         <h1 className="text-xl md:text-3xl text-center font-bold">
-         Automated Email Sequencer
+        Email Schedular with Flowchart
        </h1>
       <FlowChart />
      </div>
